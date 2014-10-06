@@ -1,4 +1,4 @@
-package com.example.randriamasy.endarija;
+package com.endarija;
 
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
@@ -6,10 +6,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.Toast;
 
 
-public class MyActivity extends ActionBarActivity {
+public class DictionaryActivity extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -18,7 +17,7 @@ public class MyActivity extends ActionBarActivity {
 
         ListView listView1 = (ListView) findViewById(R.id.listView1);
 
-        DictionaryModel model = new DictionaryModel();
+        DictionaryModel model = new DictionaryModel(this);
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 android.R.layout.simple_list_item_1, model.allWords());
@@ -44,7 +43,7 @@ public class MyActivity extends ActionBarActivity {
 
             ListView listView1 = (ListView) findViewById(R.id.listView1);
 
-            DictionaryModel model = new DictionaryModel();
+            DictionaryModel model = new DictionaryModel(this);
 
             ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                     android.R.layout.simple_list_item_1, model.wordswithKey("motrecherché"));
