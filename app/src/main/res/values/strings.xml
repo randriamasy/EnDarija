@@ -3,6 +3,6 @@
 
     <string name="app_name">EnDarija</string>
     <string name="hello_world">Bonjour!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_search">Rechercher</string>
 
 </resources>
