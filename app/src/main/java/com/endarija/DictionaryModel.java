@@ -21,7 +21,7 @@ public class DictionaryModel {
         InputStream instream = null;
         try {
             // open the file for reading
-            instream = context.getAssets().open("words.txt");
+            instream = context.getAssets().open("data.txt");
 
             // prepare the file for reading
             InputStreamReader inputreader = new InputStreamReader(instream);
