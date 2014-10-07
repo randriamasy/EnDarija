@@ -50,7 +50,7 @@ public class DictionaryActivity extends ActionBarActivity {
             DictionaryModel model = new DictionaryModel(this);
 
             ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
-                    android.R.layout.simple_list_item_1, model.wordswithKey("motrecherché"));
+                    android.R.layout.simple_list_item_1, model.wordsWithKey("bon"));
 
             listView1.setAdapter(adapter);
 

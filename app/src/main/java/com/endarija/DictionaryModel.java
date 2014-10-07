@@ -36,7 +36,7 @@ public class DictionaryModel {
                 String ar = fields[1];
 
                 // copy line in words
-                wordsList.add(fr + ":" + ar);
+                wordsList.add(line);
             }
 
             // close the file.
@@ -55,10 +55,17 @@ public class DictionaryModel {
         return wordsList.toArray(new String[wordsList.size()]);
     }
 
-    public String[] wordswithKey(String key) {
+    public String[] wordsWithKey(String key) {
 
-        String[] items = {"Toothpaste", "Ice Cream"};
-        return items;
+        ArrayList<String> resultList = new ArrayList<String>();
+
+        for(String element : wordsList) {
+            if (element.contains(key)) {
+                resultList.add(element);
+            }
+        }
+
+        return resultList.toArray(new String[resultList.size()]);
     }
 
 }
