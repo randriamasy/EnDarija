@@ -31,8 +31,12 @@ public class DictionaryModel {
             // read every line of the file into the line-variable, on line at the time
             while ((line = buffreader.readLine()) != null) {
 
+                String fields[] = line.split("\t");
+                String fr = fields[0];
+                String ar = fields[1];
+
                 // copy line in words
-                wordsList.add(line);
+                wordsList.add(fr + ":" + ar);
             }
 
             // close the file.
