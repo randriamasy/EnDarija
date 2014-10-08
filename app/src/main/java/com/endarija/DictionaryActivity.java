@@ -33,6 +33,7 @@ public class DictionaryActivity extends ActionBarActivity {
         getMenuInflater().inflate(R.menu.menu_action_bar, menu);
         MenuItem searchItem = menu.findItem(R.id.action_search);
         final SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
+        searchView.setQueryHint(getResources().getString(R.string.action_search));
 
         searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
             @Override
