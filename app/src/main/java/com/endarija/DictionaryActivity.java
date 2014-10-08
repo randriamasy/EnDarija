@@ -8,13 +8,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.Toast;
 
 
 public class DictionaryActivity extends ActionBarActivity {
 
     private DictionaryModel model;
-    ListView listView1;
+    ListView listView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,7 +21,7 @@ public class DictionaryActivity extends ActionBarActivity {
         setContentView(R.layout.activity_my);
 
         model = new DictionaryModel(this);
-        listView1 = (ListView) findViewById(R.id.listView1);
+        listView = (ListView) findViewById(R.id.listView1);
 
         reloadListViewWithAllWords();
     }
@@ -33,12 +32,12 @@ public class DictionaryActivity extends ActionBarActivity {
 
         getMenuInflater().inflate(R.menu.menu_action_bar, menu);
         MenuItem searchItem = menu.findItem(R.id.action_search);
-        SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
+        final SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
 
         searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
             @Override
             public boolean onQueryTextSubmit(String s) {
-                // TODO: remove keyboard
+                searchView.clearFocus();
                 return false;
             }
 
@@ -58,7 +57,7 @@ public class DictionaryActivity extends ActionBarActivity {
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 android.R.layout.simple_list_item_1, model.allWords());
-        listView1.setAdapter(adapter);
+        listView.setAdapter(adapter);
 
     }
 
@@ -66,7 +65,7 @@ public class DictionaryActivity extends ActionBarActivity {
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 android.R.layout.simple_list_item_1, model.wordsWithKey(key));
-        listView1.setAdapter(adapter);
+        listView.setAdapter(adapter);
     }
 
 }
