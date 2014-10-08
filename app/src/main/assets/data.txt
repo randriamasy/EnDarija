@@ -1,718 +1,1 @@
-﻿Lundi	 Ltnain
-Mardi	Tlat
-Mercredi	Larbaa
-Jeudi	Khamis
-Vendredi	Djouma
-Samedi	Sabt
-Dimanche	Lhad
-Blanc	byad
-Noir	kehal
-bleu 	zerak
-rouge 	hemar
-vert 	khdar
-gris	remadi
-violet	koki/7ajri
-jaune	sefar
-rose	wardi/rose
-yeux 	aynin
-tête 	rass
-corps 	dat
-bras 	yidine
-jambes 	 rajel
-nez 	mnakhar
-bouche 	 foum
-oreilles 	woudnine
-cheveux	ch3ar
-ventre 	kerchi
-dos 	 dhar
-Cœur	9alb
-Tomates	maticha
-Oignons	basla
-Concombre	Khiar
-carottes 	Khaizou
-aubergines	Dnjale
-Pommes	tffa7
-Peches	khokh
-Prune	br9o9
-Pomme de terre 	btata
-Poivron               	 flfla
-Orange                 	litchin
-Pastèque              	dla7   
-Papillons	faracha
-Chat	kata
-Chien	kelb
-Oiseaux	tyour
-Poissons	lheuts
-Faite comme chez vous	Dir bhal darkoum
-C’est comme ça ! on est au maroc	Madoumtafil maghreb fallaatsi saghreb
-Le royaume du maroc	Almamlak al maghreb
-Ferme ta bouche	Shoud fommek
-Qui part à la chasse perd sa place	Li Mcha ysaied mchatlo l blassa
-Joyeux aniversaire	Sanaheloua yagamil
-Vive le maroc	Biba al maghreb
-J’ai mal a la tète	Fia hari9 frasi / darni rasi
-Que Dieu te guerrisse	Rabichafek
-Baisse un peu le prix	N9os shouia 3afak
-Qui veut du H ? (chanson mondaine)	Shkoun le bra maajoun
-Je ferais de mon mieux	Radindir jahdi
-Que le salut soit sur vous	Asalam 3aleikoum
-Et que sur vous soit le salut	3aleikoum salam
-Que dieu te / vous bénisse	Barakallah alek / alekoum
-Partez en paix	Bslama
-Que dieu te rende la vie sauve	Lahisalmek
-Comment vas-tu	Kirak kideir
-Ça va dieu merci	Lebes alhamdoulilah
-Qu’il te pardonne	Aafak
-De ta bonté	Mnfadlik
-Que dieu te garde en vie	Allah akhlek
-Si tu permets	 Ila smahti
-Que dieu soit satisfait de toi	Allah iardialek
-Que dieu te preserve	Allah hafdek
-Merci	Choukran
-Qu’il te ralonge la vie	Itowoul a3mrek
-Que dieu te donne la santé	Allah ataiek saha
-Que dieu fasse misericorde à tes parents	Allah iarhamil oualedin
-Que dieu te benisse	Barakallah ouafek
-Il n’y a pas de quoi	Blajmil
-Je n’ai pas bien compris	Mefemtekch mezianne
-Repetez s’il vous plait ce que vous avez dit	A3oud 3afak chnou goulti
-Parlez doucement 	Hadar  bleti bshouia
-Qui parmis vous parle le français, l’anglais, l’allemand ?	Chkoun le tkelem fikoum lfransaouia lalmania neglesia
-Est-ce que vous pouvez me traduire	Ouech takder terjimali
-Qui	Chkoun ?
- Lequel e est-ce ? qui est-Ce ?	Chkoun hoa
-Comment ?	Kifech ? kif ?
- Laquelle est-ce ? qui est-Ce ?	Chkoun hia
-Lequel d’eux ?	Achmen
-Lesquels ? lesquelles ?	Chkoun houma ?
-Quoi ?	Achnou ? ach ?
-Est-ce que ?	Ouech ?
-Où	Fein ? fin ?
-Est-ce possible ?	Imken ?
-Pourquoi ?	Aalach ?
-Qu’est ce que tu as ?	Maalek ?
-Qu’est ce que vous avez ?	Maaloum ?
-Vers où ?	Lfein ? lfin ? lein ?
-Combien	 Shall ?
-Comment ?	Kifech ?
-Pardon ?	Naam ?
-A quel moment ?	Achmen ouakt ?
-A quel heure ?	Achmen saa ?
-Y a-t-il ?	Kein chi ?
-1	wahed
-2	jeuje
-3	tlata
-4	arbaa
-5	khamsa
-6	sita
-7	sbaa
-8	tmania
-9	tisaa
-10	achara
-11	hadach
-12	etnach
-13	tlatach
-14	arbaach
-15	khamstach
-16	sitach
-17	sbaach
-18	tmantach
-19	tisatach
-20	echrin
-21	wahed ou echrin
-22	jugh ou echrin
-30	tlatin
-40	arbain
-50	khamsin
-60	sitin
-70	sbaain
-80	tmanin
-90	tisin
-100	mya
-200	myatain 
-300	tlata mya
-1000	alaf
-Oui	Aa, naam
-Non	La
-Combien coute… ?	Chall
-Laissez moi tranquile s’il vous plait	Khlini trankil aafak
-A ta santé	Bsaha
-Bonne appetit à toi  / vous	Bsahtek / bsahtkoum
-Bonjour	 Sbahalkheir
-Bonne soirée	Msalkheir
-Excusez moi monsieur mr / mme	Smahlia sidi / lalla
-Pardon	Laafou
-Il n’y a pas de problème	Makein mouchkil
-Il n’y a pas de quoi	Dnia hania
-Il n’y a pas de mal	Makein bess
-La droite	Limen
-La gauche	Chmell
-Tout droit	Nichen
-Est-ce que les chretiens peuvent entrer dans cette mosquée,	Oech nsara ikadrou i dokhlou ila had lmasjid / jamah
-M’est il possible d’entrer ici	Imken li ntroll hana ?
-Pouriez vous m’aider s’il vous plait ?	Tkdar tsaadni lah hafdek ?
-N’est ce pas  honteux de vous comporter comme cela ?	Machi 7chouma 3lek dir 7ad chi ?
-N’avez-vous jamais vu une femme	Ouech 3mrek machoufti mra ?
-Eloignez vous de moi ou j’appelle la police	Tfarak m3aia ou la n3ait lboulis
-Felicitations	Hania a3lek
-Merci	Allah barakfek / fikoum
-Bonnes fetes	3aidek mabrouk / said
-Bonnes fetes aussi	Hta nta 3aidek mabrouk / said
-Avec plaisir	Belfarah
-Bravo	Sahit
-A ta santé	Bsaha ou raha
-Que Dieu te/vous donne la santé	Allah 3ataek /tekoum saha
-Bonne appetit	Bsahtek / bsahtkoum
-Bonne appetit à toi / vous aussi	Bsahtek hata nta / bsahtkoum hata ntouma
-Bonjour	Sbahlkheir
-Bonne soirée	Msalkhir
-Bonne nuit	Lila saida lila mbrouka
-Sois  le / soyez les bienvenus	Marhababek / marhababikoum
-Vous avez votre billet madame  ?	Smahlia a3ndek lwarkat a cherifa?
-Madame monsieur	Lala sidi
-Cette route mene t elle au marché madame?	Had trek tidi  lsouk a lalla ?
-Permetez moi de passer monsieur	Smahlia ndouz a sidi
-Monsieur est-ce que le train est arrivé ?	Alhaj ouech ja ltren ?
-Je vous en prie madame	Tfadli al oualida
-Garçon un jus d’orange s’il vous plait	Garçon wahed dl asir dlemon 3afak
-Monsieur le fils de abdellah	Si ibn abellah
-Moha le fils de amou ezzayani	Moha ohamou ezzayani
-Fatna la fille d’halloucine	Fatna bentlhoucine
-S’il vous plait pourriez vous porter le sac avec moi ?	Allahkhlek haz ma3ia had sak
-S’il vous plait quelle heure est’il ?	Mnfadlak chall saa ?
-S’il vous plait est ce que c’est celle-ci la maison de monsieur Driss ?	Allah jazik bikhair ouech hadi dar dial si Driss ?
-S’il vous plait la station de bus c’est par ici ?	Allah barak fek lmahata dial kiran min hnaya ?
-Sois  le / soyez les bienvenus	Marhababek / marhababikoum
-quelle est votre nom ?	Chnau ismak nta ?
-Je m’appelles karim	Asmi Karim
-D’où etes vous ? de France Canada Belgique , Suisse ?	Mnin nta, mn Fransa Canada Belgika , Swisra ?
-Oui je suis de France , du canada	A ana min fransa min canada
-Vous restez longtemps au maroc ?	Chall tbkha fl maghreb ? bezzaf ?
-Non je rentre d’ici une semaine	La arja min daba semana
-Français  française	Frantsaoui frantsaouia
-Allemand allemande	Almani almania
-Espagnol espagnole	Spanioli spaniolia
-Italien italienne	Italiani italiani
-Je suis allé une fois en France	Ana kount wahed lmarra frantsa
-Dans quelle ville etais tu en France	Achmen mdina fech kounti frantsa
-J’etais à paris et à tolouse	Kount fparis ou ftoulouz
-Où habites tu ?	Fin ketskoun ?
-J’habite au centre ville	Nskoun fwoust lmdina
-Quel age as-tu ?	Chall fa3mrak ?
-J’ai trente ans	Famri tlatin 3am
-Je suis fonctionnaire	Ana maoutef /  maoutefa
-Instituteur institutrice	Moua3lin moua3lima
-Professeur	Ousted
-Etudiant	Ta3lib ta3liba
-Ingenieur	Mouhindis mouhindisa
-Chaumeur chaumeuse	bItali bitalia
-Journaliste	 Sahafi sahafia
-Vous etes marié	Nta nzouj ?
-Non je suis encore célibataire	La bakhe azri
-Vous avez des enfants ?	 Aandk chi ouled ?
-Oui j’ai un garçon et une fille	A a3ndi ouled ou bent
-Comment s’appellent ils ?	 Kifech / chnau smithoum ?
-Le garçon s’appelle rachid et la fille laila	Louled smitou rachid ou lbent laila
-Excusez moi je ne l’ai pas fait expres	Smahalia madirthach bla3ni
-C’est de ma faute	Lfalta diali
-Tu as raison	A3ndek lhak
-Je n’ai rien à dire	Ma3ndi mangoul
-Ne vous en faites pas	Ma3lekch / la alek
-Ce n’est rien	Dnia hania
-Où se trouve le  centre ville monsieur ?	Fin ja akhai loust lmdina
-Montrez moi s’il vous plait la route qui mène à la gare	Ourini a3fak trek dial la gare
-Allez tout doit puis tournez à gauche	Sir nichen ou door a chmel
-Vous vous ètes perdu, retournez sur vos pas et demandez àl’epicier	Araktalef, arja oua soul mlhanout
-La droite	Limen
-La gauche	Chmel
-Tout droit	Nichen
-Devant	Godem
-Derriere	Loor  / moor
-Le coté	Ljiha
-Le sud	Ljanoub
-Le nord	Lchamal
-L’est	Lchark
-L’ouest	Lgharb
-La	Tema
-Ici	Hna
-Taxi	Taxi/ taxiat
-Chauffeur	Chifour/chifourat
-Place	Blaça/blais
-Station	Stationn/lmahata
-Le port	Lmerça
-L’aeroport	Maatar
-Combien ça coute pour aller à l’aeroport ?	Chall tddini lmaatar
-Y a-t-il un taxi pour fes monsieur ?	Ouech kein chi taxi lfes chriff ?
-Je suis pressé, pouriez vous rouler un peu plus vite ?	Ana ranimzroub 3afak zrib chwia.
-Peut être que je suis en retard	Imken mcha hlia l7al
- J’ai beaucoup de retard et aucun taxi  n’arrive	 Taatalt bezaf o hata taxi maben
-Les bagages	Lbagag
-La valise	Lbaliza
-Le sac	Lsak
-Le prix	Ltaman
-Le numero	Lnimra
-Les voyages	Safr
-L’arrivée	Nouosl
-Déscendre	Nzil
-Monter	Tla
-S’arreter	W9af/7bis
-Réserver	7azj
-Démarrer	Intala9a
-Est-ce que ce car part pour agadir?	Ouech 7ad lcar radi lagadir?
-Combien de temps reste-t-il pour arriver ?	Chal dial louakt ba9i nouoslo
-Quand le car va-t-il démarrer ?	 Fo9ach kaykal3a lcar?
-Où se trouve le guichet s’il vous plait ?	Fin lguichet lah yarhamil walidin?
-Pourriez vous surveiller cette valise jusqu'à ce que je revienne svp ?	Hadi smak 7ad lbalisa 7ta ana rja 3afak
-Le train	L lren
-La garre	Lmahata
-La voie ferrée	Sikka
-La place	Lblaça
-Le billet	Lwarka/lbilleet
-Le wagon	L fago
-le controleur	Lcontrolour
-Acheter son billet	Katta lwarka
-Cette place, est elle occupée ou libre madame?	7ad lblaça ouech 3amra wla khaouia alalla ?
-Le train n’arrive pas, il a peut etre du retard	Lmachina maouoslach wakila  3anda lretard
-Pourais-je fumer une cigarette svp?	Smahli mkemmi wahed lgarro?
-L’huile	L zit
-La vitesse	Lsoraa
-L’essence	L’essans
-Le gaz oil	L mazot
-L’automobile, les automobiles	Ltonobil/ltonobilat
-La station service	Lbomba
-Le cofre	Lcofr
-Litre	Litro
-Bidon	Bido
-Photo	Soirat
-Cette route mène-t-elle à fes?	Ouich 7ad trek, tddi lfes ?
-Y a-t-il un mécanicien ici	Kein chi mecanicien hnaya?
-Je voudrais que  quelqu’un me répare ma voiture	Brit chi wahed le saib lia ltonobil
-Y a t il encore une station sur la route?	Ouech mazal chi station 9oddem ?
-Je n’ai plus de roue de secour	Ma3ndich roeda dsecour
-Ma roue est crevée	Crevat lroeda
-Je suis tombée en panne	Tahat en panne
-Où est l’hotel ?	Fin l’hotel ?
-Excusez moi, y a-t-il un hotel ici ?	Smahlia lalla fin kein chi hotel hnaya ?
-Bonsoir, il vous reste une chambre disponible ?	Msalkhir, ba9i 3andek chi bit khaoui?
-Non, tout est plein tout est complet, alez voir cet hotel là bas.	La coulchi 3amar, coulchi complet, chof 7adak hotel hya.
-Existe-t-il un camping dans cette ville ?	Ouech kein chi camping f7ad lmdina a sidi ?
-Combien coute une chambre	Ch7al t7aseb lbit
-100 DH par nuit	Myat drham lila
-Y a-t-il une douche ?	Fia douche o la la
-Avec douche c’est 5 dh par nuit	Bdouch khassek nzid 5dh lila
-Le lit	L Frach
-L’orreiller	Lnizar
-La couverture	Lbtania
-Reserver	Arben
-La lumiere	L do
-L’eau chaude	Lma skhon
-La nuit	Lil
-L’eau froide	Lma berd
-Na9i	Proper
-Le petit déjeuner	L ftor
-Sale	Mouiskh, mouiskha
-Le dejeuner	Lrda
-Le diner	L3acha
-Le pain	L kkobs
-Le lait	L 7alib
-Le café	Lka7oa
-La patisserie	lHaloua
-Le thé	Latai
-Le beurre	lZoubda
-Le cocolat	Lchoklat
-La confiture	Lconfitir
-Le miel	Ala3asal
-Le jus de fruit	L’3asir
-La viande hachée	Lkefta
-Le roti	Mlmhamar
-Les brochettes	Lktban
-Le mechoui	Lmechoui
-Le mechoui	Lham
-Le riz	Aroz
-Les olives	Lzitoun
-Les légumes	Lkhodra
-Le poulet	Lgeg
-Les tomates	Maticha
-Le poisson	Lhout
-Les pommes de terres	Lbatata
-Les abats	Lfdaouch
-Les carrotes	Lkhaizo
-Les oignons	Lbasla
-Les pigeons	Lhmam
-La laitue	Lkhas
-Les navets	Aleft
-Les courgettes	Lgr3a
-Le thé noir	Atai kehal
-Lalcohol	Lchrab
-Le thé vert	Atai khedar
-La bierre	Lbirra
-La menthe	N3an3a
-L’abscinte	Lchiba
-La verveine	Louisa
-Le jus de pomme	L’3asir d tfa7
-Le jus d’orange	L '3asir dlimone
-Les fruits	Lfawakia
-Le raisin	L’3anib
-Les abricots	Lmachmach
-Les melons	Lbetikh
-Les pasteques	Ldelah
-Les grenades	aRman
-Les figues	Lkarmous
-Les peches	Lkhokh
-Les oranges	Limoun
-Où est l’hotel ?	Fin l’hotel ?
-je	Ana 
-tu	Ntina
-il	Hia
-elle	Hoa
-nous	7na
-vous	Ntouma
-ils / elles	Houma
-le mien	Dialna
-le tien	Diallek
-le sien	Diallo
-la sienne	Dialla
-le notre	Dialhna
-le votre	Dialkoum
-le leurs	Dialloum
-soudain / brusquement	3alarafla
-vacances / congés	3otla
-connaître	3ref
-donner	3ti
-donne moi	Ara
-timide	7chm
-poser	7et
-apprendre	7fad
-Yeux	Aain
-Viens	Agi
-Jours	Aiem
-Pourquoi	Alach
-Pourquoi tu me regardes ?	Alach ketchoufia
-Pour moi et pour toi	Alina w alek
-Dieu	Allah
-Je suis fatigué	Ana aien
-J’ai faim	Ana fia jou3
-J’ai sommeil	Ana fia nass
-Je suis là bas	Ana tema
-Dès que j’en aurais l occasion	Aoul manalka chi forsa
-Enfants	Aouled
-Donne-moi	Atainy
-Vendre	Ba3
-Père	Baba
-Fout moi la paix	Badmni
-C’est tout	Baraka
-Mes condoléances	Baraka frasek
-Moins cher	Barata / rkhiss
-Porte	Beb
-Œufs	Beid / beidas
-Ça va ?	Bekher
-Au contraire	Bel3aks
-Au contraire	Bel3ax
-Par contre	Belhak
-Hier	Bera7
-Pour	Besh
-Près de	bhall
-Mer / plage	Bhar
-Beaucoup	Bizef
-Avaler	Blaa
-Laisse tomber	Blesh
-Ampoule	Bola
-Pilier	boudra
-Vouloir	Brite
-Félicitations	Bsaha
-Au revoir	Bslama
-Pomme de terre	btata
-Poivre	Bzar
-Malgré	Bzaz
-Force	Caoua
-Fort	Caouiy/s7i7
-Yali	Celui qui
-Pates/spaghettis	Ch3aria
-Allumer	Cha3al
-Cheveux	chaar
-Témoin	Chahada
-Soleil	chams
-Explication	Char7
-Qu’est ce que tu veux	chbghiti
-C’est puissant / c’est top	Chdid
-Jeune	cheb
-Vieux	chebeni
-Voleur	chefer
-Arbre	Chjra
-Qui ?	chkoun
-Bougies	Chmea
-Gauche	chmell
-Quoi	Chno
-Expliquer	Chra7
-Acheter	chri
-Pluie	Chtah
-Toutes les chambres	Coulbit
-Tout	Coulchi
-Tout va bien	Coulchi mzian
-Chaise	Coursi
-Faible	Daîf
-Maison	dar
-Te frapper	Darbek
-Dent	Dars
-Apprendre	Derasa
-Farine	Dgig
-Elastique	Djipada
-Entrez	Dkholl
-Gentil	Drifa/drif
-Après midi	Eshiya
-alors que	F3ot
-Content	Farhan
-Souris	Farr
-Virgule	Fassila
-Curieux	Fdoli
-Reflechir	Fekkar
-Je suis enrhumé	Fia rouah
-Bonne idée	Fikra mzyana
-Où va tu	Fin machi
-Où en êtes-vous	Fiou wsalto
-Tortue	Fkroun
-Argent	Flous 
-Quand ?	Fo9ash
-Ouvrir	Ftah
-Petit déjeuner	Ftar
-Pourcent	Fulmia
-Assis	Geles
-Cher	Ghali
-Bizarre	Ghariba/fechkel
-Assis !  assoyez-vous !	Gless/gelsso
-Dire	goll
-Angle aigu	Hadda
-Métal / fer	Hadid
-Comme ça	Haka
-Escargot	Halazoun
-Gateaux	Haloua
-Gateaux	Haloua
-Dieu merci	Hamdoulilah
-Epicerie	Hannout
-Moi aussi	Hata ana
-Toi aussi	Hata nta
-Parler	Hdar
-Poissons	Heudt
-Lait	Hlib
-Ane	Hmar
-Cochon	Houllouf
-Brûler	Hra9
-Toi de même	Htanta/htanti
-Punir	i3a9ab
-Balayer	Ichtaba/miknasa
-Donc	Idan
-si dieu le veut	Inchallah / ikonkher
-Crier	Irouat
-Mosquée	Jama3
-Sert pierre	Jffaf
-Il y en a	Kaena
-Angle droit	Kaima
-Moins 5 minutes	Kal Ksam
-Moins 10 minutes	Kal Ksmaenina
-Stress	Kalak
-moins 20 minutes	Kaltseuleut
-Ensemble	Kamlin  bikoum
-Je cherche	Kan9aleb
-Je fais	kandir
-Eglise	Kanisa
-J’ai peur	Kankhaf
-Chat	Kata / mcha
-J’aime ça	Kay3jebni
-Drôle	Kayde7ek
-Avant	Kbel
-Grand	Kbir
-Mentir	Kdeb
-Chien	Kelb
-Je t’aime	Ken brick 
-essayer	Kenhaoul
-Je te felicite	Kenhenek
-Habiter	Kenskoun
-Train	Ketar
-Sage femme / j’accepte	Khabla
-Travail	Khadma / a3mal
-Grain de beauté	Khala
-Il n’y a rien	Khaoui
-Bois	Khcheb
-Tante	Khelti
-levure	Khemira
-Nez	Khnafar
-Prendre	Khod
-Emmène-moi	Khodni
-Prend	Khoud
-Sortez Sortir	Khourij
-Merde	Khra
-Comment ça va ?	Kifah halek
-Pareils	Kifkif – fhalhfal
-Dis lui	Kollo
-J’ai failli…	Konts
-Manger	Koul
-Etudier	Kra
-Approcher	Krreb
-Ecrire	Kteb
-Plus que toi	Ktsarmniknta
-Non	La 
-Lentille	Laadiz
-L’année prochaine	Laamji
-Que dieu te donne la santé	Lahteksaha
-Que Dieu me garde	Lahyaoun
-Chambre (s)	Lbit /lbiout
-Citron	Lemon
-Orange	Letchi / mandarine
-Univers	Lfalak
-Haut	Lfokh
-En haut	Lfokh
-Viande	Lham
-Mouton	Lhaouli
-Droite	Limen
-Aujourd’hui	Liouma
-Domestiques	Lkhaddama
-L’eau	Lma
-Table	Lmida
-Le milieu	Louast
-Haricots	Loubia
-Foret	Lraba
-Bas	Lte7t
-Avec toi	Maak
-Entre…. Et …	Mabin
-Félicitation	Mabrouk
-Ça ne va pas ?	Machi mzyan ?
-Pas bien	Machimzian
-Occupé	machroul
-Qui ne passe pas	Madouzchi
-Carafe	Makreg
-Je ne sais pas	Manaraf
-Bienvenu	Marhaban
-Tomates	Mataicha
-Par exemple	Matalan
-Pas encore	Mazal
-Aller	Mcha
-Enchanté	Mcharfin
-Je vais par la	Mchi mn hna
-Chaton	Mchicha
-On y va !	Mchina
-Je ne comprends pas	Mefemtchi
-Mort	Metset / mouts
-Chat	Micha
-Sauf que	min ghir
-D’ où vient …	Minjat ?
-Malade	Miriend
-Marteau	Mittrak
-Abimé / gâté	Mkhasr
-Sel	Mlah
-Lunettes	Mnaddar
-Apres	Mnbaad
-Parapluie	Mndall
-Surpris	Mofajaa
-Angle obtus	Moferija
-Obeissant	Mote3ain
-Problème	Mouchkila
-Voyager	Mssafer
-Futur	Mstakbal
-Stupide	Mtarnan
-Belle	Mziouna
-Poser	N7at
-Diminuer	N9ess
-Discuter (prix)	Na9chou
-Je fais ce que je veux	Nahmal le bridze
-Nous faisons	Nahmlou
-Au secours	Najda
-Ouvrir	Nhel
-Exactement / alors	Nichen / yahadek
-Plus ou moin	Nisbian
-On part ?	Nmjiou
-Note	No9ta
-J ai oublié	nsit
-et alors?	o cheno fiha?
-D’accord	Oakha
-Temps	Ouakt
-Oreilles / écouter	Ouednin/Smah
-Ministre	Ouizir
-Fils	Ould
-Fils de pute	Ould kahba
-Demain	Radda
-Repos	Raha
-Ferme les yeux	Ramadainick
-Riche	rani
-Absence	Rieb
-Mince	Rkik
-Gros	Rlid
-Boite de tomate	rOrraf dmataicha
-En forme	S7i7
-C’est bon / c’est fini	Safi
-Mon ami	Sahbi
-Mon amie	Sahbti
-Difficile	Saieb
-Jeûner	Saiem
-Carafe	Sakhan
-Question	Saksi
-La paix soit avec toi	Salam alekoum
-Année	Sana
-L’année prochaine	Sanakadima
-Fenêtre	Sargim
-Pantalon	Saroual
-Lion	Sbaa
-bonjour	Sbaalkher
-Matin	sbah
-Mois	Schor
-Vite	Serbie
-Combien	Shall
-Quel age as-tu	Shall faamrek
-Qu’est ce que tu veux	Shnau briti
-Quoi de neuf ?	Shnau kain
-Comment t’appelles-tu	Shnau smitik/ ishmouk
-Comment ça s’appelle ?	Shnau smitou
-Qu’est ce que ça veut dire	Shnau zama
-Fermer	Shoudt
-Voir	Shouf
-Un peu	Shouia
-Merci 	Shoukran
-Attraper	Shouper
-Nager	Sibaha
-Voile	Sibnia / hijab
-Jeter	Sieb
-Industrie	Sina3a
-Pantalon	Siroual
-Va te faire foutre	Sirtkaoued
-Il fait chaud	Skhana
-Chaud	Skhön
-Taisez vous	Sktou
-Pardon	Smahalia
-Entendre	Smati
-Sucre	Soukar
-Sucre	Soukar
-Questionner	Souwol
-Petit	Srir
-En bas	Ta7t
-plus ou moin	Ta9riban
-Table	Tabila
-Casquette	Tarbouch
-Médecin	Tbib
-Fumer	Tboak
-Balayer	Tchatbi
-Sandales	Tchingla
-Eteindre	Tfah
-Se moquer	Tfla
-Gros mots	Tflisti
-Portez vous bien	Thalla
-Neige	Thelj
-Bouche	Tkom
-Allez-y	Tlak
-Dattes	Tmar
-Tissus	Toub
-Bus	Trambia / tobus
-Servir	Tservi
-Souffrir	Tskarfès
-Tu me manques	Twa7echtk
-Debout	Wa9f
-mème si	wakha ma
-Sos	Wakwak
-Rien	Wallo
-si jamais	Wida
-Oui	Ya 
-Que dieu te guide	Yadikallah
-Mourir	Yamouts
-Poubelle	Zbel
-chanceux	Zharr 
-Vas-y / entres	Zid
-Foulard	Zif
-Beurre	Zoubda
+Lundi	LtnainMardi	TlatMercredi	LarbaaJeudi	KhamisVendredi	DjoumaSamedi	SabtDimanche	LhadBlanc	byadNoir	kehalbleu	zerakrouge	hemarvert	khdargris	remadiviolet	koki/7ajrijaune	sefarrose	wardi/roseyeux	aynintête	rasscorps	datbras	yidinejambes	rajelnez	mnakharbouche	foumoreilles	woudninecheveux	ch3arventre	kerchidos	dharCœur	9albTomates	matichaOignons	baslaConcombre	Khiarcarottes	Khaizouaubergines	DnjalePommes	tffa7Peches	khokhPrune	br9o9Pomme de terre	btataPoivron	flflaOrange	litchinPastèque	dla7Papillons	farachaChat	kataChien	kelbOiseaux	tyourPoissons	lheutsFaite comme chez vous	Dir bhal darkoumC’est comme ça ! on est au maroc	Madoumtafil maghreb fallaatsi saghrebLe royaume du maroc	Almamlak al maghrebFerme ta bouche	Shoud fommekQui part à la chasse perd sa place	Li Mcha ysaied mchatlo l blassaJoyeux aniversaire	Sanaheloua yagamilVive le maroc	Biba al maghrebJ’ai mal a la tète	Fia hari9 frasi / darni rasiQue Dieu te guerrisse	RabichafekBaisse un peu le prix	N9os shouia 3afakQui veut du H ? (chanson mondaine)	Shkoun le bra maajounJe ferais de mon mieux	Radindir jahdiQue le salut soit sur vous	Asalam 3aleikoumEt que sur vous soit le salut	3aleikoum salamQue dieu te / vous bénisse	Barakallah alek / alekoumPartez en paix	BslamaQue dieu te rende la vie sauve	LahisalmekComment vas-tu	Kirak kideirÇa va dieu merci	Lebes alhamdoulilahQu’il te pardonne	AafakDe ta bonté	MnfadlikQue dieu te garde en vie	Allah akhlekSi tu permets	Ila smahtiQue dieu soit satisfait de toi	Allah iardialekQue dieu te preserve	Allah hafdekMerci	ChoukranQu’il te ralonge la vie	Itowoul a3mrekQue dieu te donne la santé	Allah ataiek sahaQue dieu fasse misericorde à tes parents	Allah iarhamil oualedinQue dieu te benisse	Barakallah ouafekIl n’y a pas de quoi	BlajmilJe n’ai pas bien compris	Mefemtekch mezianneRepetez s’il vous plait ce que vous avez dit	A3oud 3afak chnou goultiParlez doucement	Hadar bleti bshouiaQui parmis vous parle le français, l’anglais, l’allemand ?	Chkoun le tkelem fikoum lfransaouia lalmania neglesiaEst-ce que vous pouvez me traduire	Ouech takder terjimaliQui	Chkoun ?Lequel e est-ce ? qui est-Ce ?	Chkoun hoaComment ?	Kifech ? kif ?Laquelle est-ce ? qui est-Ce ?	Chkoun hiaLequel d’eux ?	AchmenLesquels ? lesquelles ?	Chkoun houma ?Quoi ?	Achnou ? ach ?Est-ce que ?	Ouech ?Où	Fein ? fin ?Est-ce possible ?	Imken ?Pourquoi ?	Aalach ?Qu’est ce que tu as ?	Maalek ?Qu’est ce que vous avez ?	Maaloum ?Vers où ?	Lfein ? lfin ? lein ?Combien	Shall ?Comment ?	Kifech ?Pardon ?	Naam ?A quel moment ?	Achmen ouakt ?A quel heure ?	Achmen saa ?Y a-t-il ?	Kein chi ?1	wahed2	jeuje3	tlata4	arbaa5	khamsa6	sita7	sbaa8	tmania9	tisaa10	achara11	hadach12	etnach13	tlatach14	arbaach15	khamstach16	sitach17	sbaach18	tmantach19	tisatach20	echrin21	wahed ou echrin22	jugh ou echrin30	tlatin40	arbain50	khamsin60	sitin70	sbaain80	tmanin90	tisin100	mya200	myatain300	tlata mya1000	alafOui	Aa, naamNon	LaCombien coute… ?	ChallLaissez moi tranquile s’il vous plait	Khlini trankil aafakA ta santé	BsahaBonne appetit à toi / vous	Bsahtek / bsahtkoumBonjour	SbahalkheirBonne soirée	MsalkheirExcusez moi monsieur mr / mme	Smahlia sidi / lallaPardon	LaafouIl n’y a pas de problème	Makein mouchkilIl n’y a pas de quoi	Dnia haniaIl n’y a pas de mal	Makein bessLa droite	LimenLa gauche	ChmellTout droit	NichenEst-ce que les chretiens peuvent entrer dans cette mosquée,	Oech nsara ikadrou i dokhlou ila had lmasjid / jamahM’est il possible d’entrer ici	Imken li ntroll hana ?Pouriez vous m’aider s’il vous plait ?	Tkdar tsaadni lah hafdek ?N’est ce pas honteux de vous comporter comme cela ?	Machi 7chouma 3lek dir 7ad chi ?N’avez-vous jamais vu une femme	Ouech 3mrek machoufti mra ?Eloignez vous de moi ou j’appelle la police	Tfarak m3aia ou la n3ait lboulisFelicitations	Hania a3lekMerci	Allah barakfek / fikoumBonnes fetes	3aidek mabrouk / saidBonnes fetes aussi	Hta nta 3aidek mabrouk / saidAvec plaisir	BelfarahBravo	SahitA ta santé	Bsaha ou rahaQue Dieu te/vous donne la santé	Allah 3ataek /tekoum sahaBonne appetit	Bsahtek / bsahtkoumBonne appetit à toi / vous aussi	Bsahtek hata nta / bsahtkoum hata ntoumaBonjour	SbahlkheirBonne soirée	MsalkhirBonne nuit	Lila saida lila mbroukaSois le / soyez les bienvenus	Marhababek / marhababikoumVous avez votre billet madame  ?	Smahlia a3ndek lwarkat a cherifa?Madame monsieur	Lala sidiCette route mene t elle au marché madame?	Had trek tidi lsouk a lalla ?Permetez moi de passer monsieur	Smahlia ndouz a sidiMonsieur est-ce que le train est arrivé ?	Alhaj ouech ja ltren ?Je vous en prie madame	Tfadli al oualidaGarçon un jus d’orange s’il vous plait	Garçon wahed dl asir dlemon 3afakMonsieur le fils de abdellah	Si ibn abellahMoha le fils de amou ezzayani	Moha ohamou ezzayaniFatna la fille d’halloucine	Fatna bentlhoucineS’il vous plait pourriez vous porter le sac avec moi ?	Allahkhlek haz ma3ia had sakS’il vous plait quelle heure est’il ?	Mnfadlak chall saa ?S’il vous plait est ce que c’est celle-ci la maison de monsieur Driss ?	Allah jazik bikhair ouech hadi dar dial si Driss ?S’il vous plait la station de bus c’est par ici ?	Allah barak fek lmahata dial kiran min hnaya ?Sois le / soyez les bienvenus	Marhababek / marhababikoumquelle est votre nom ?	Chnau ismak nta ?Je m’appelles karim	Asmi KarimD’où etes vous ? de France Canada Belgique , Suisse ?	Mnin nta, mn Fransa Canada Belgika , Swisra ?Oui je suis de France , du canada	A ana min fransa min canadaVous restez longtemps au maroc ?	Chall tbkha fl maghreb ? bezzaf ?Non je rentre d’ici une semaine	La arja min daba semanaFrançais française	Frantsaoui frantsaouiaAllemand allemande	Almani almaniaEspagnol espagnole	Spanioli spanioliaItalien italienne	Italiani italianiJe suis allé une fois en France	Ana kount wahed lmarra frantsaDans quelle ville etais tu en France	Achmen mdina fech kounti frantsaJ’etais à paris et à tolouse	Kount fparis ou ftoulouzOù habites tu ?	Fin ketskoun ?J’habite au centre ville	Nskoun fwoust lmdinaQuel age as-tu ?	Chall fa3mrak ?J’ai trente ans	Famri tlatin 3amJe suis fonctionnaire	Ana maoutef / maoutefaInstituteur institutrice	Moua3lin moua3limaProfesseur	OustedEtudiant	Ta3lib ta3libaIngenieur	Mouhindis mouhindisaChaumeur chaumeuse	bItali bitaliaJournaliste	Sahafi sahafiaVous etes marié	Nta nzouj ?Non je suis encore célibataire	La bakhe azriVous avez des enfants ?	Aandk chi ouled ?Oui j’ai un garçon et une fille	A a3ndi ouled ou bentComment s’appellent ils ?	Kifech / chnau smithoum ?Le garçon s’appelle rachid et la fille laila	Louled smitou rachid ou lbent lailaExcusez moi je ne l’ai pas fait expres	Smahalia madirthach bla3niC’est de ma faute	Lfalta dialiTu as raison	A3ndek lhakJe n’ai rien à dire	Ma3ndi mangoulNe vous en faites pas	Ma3lekch / la alekCe n’est rien	Dnia haniaOù se trouve le centre ville monsieur ?	Fin ja akhai loust lmdinaMontrez moi s’il vous plait la route qui mène à la gare	Ourini a3fak trek dial la gareAllez tout doit puis tournez à gauche	Sir nichen ou door a chmelVous vous ètes perdu, retournez sur vos pas et demandez àl’epicier	Araktalef, arja oua soul mlhanoutLa droite	LimenLa gauche	ChmelTout droit	NichenDevant	GodemDerriere	Loor / moorLe coté	LjihaLe sud	LjanoubLe nord	LchamalL’est	LcharkL’ouest	LgharbLa	TemaIci	HnaTaxi	Taxi/ taxiatChauffeur	Chifour/chifouratPlace	Blaça/blaisStation	Stationn/lmahataLe port	LmerçaL’aeroport	MaatarCombien ça coute pour aller à l’aeroport ?	Chall tddini lmaatarY a-t-il un taxi pour fes monsieur ?	Ouech kein chi taxi lfes chriff ?Je suis pressé, pouriez vous rouler un peu plus vite ?	Ana ranimzroub 3afak zrib chwia.Peut être que je suis en retard	Imken mcha hlia l7alJ’ai beaucoup de retard et aucun taxi n’arrive	Taatalt bezaf o hata taxi mabenLes bagages	LbagagLa valise	LbalizaLe sac	LsakLe prix	LtamanLe numero	LnimraLes voyages	SafrL’arrivée	NouoslDéscendre	NzilMonter	TlaS’arreter	W9af/7bisRéserver	7azjDémarrer	Intala9aEst-ce que ce car part pour agadir?	Ouech 7ad lcar radi lagadir?Combien de temps reste-t-il pour arriver ?	Chal dial louakt ba9i nouosloQuand le car va-t-il démarrer ?	Fo9ach kaykal3a lcar?Où se trouve le guichet s’il vous plait ?	Fin lguichet lah yarhamil walidin?Pourriez vous surveiller cette valise jusqu'à ce que je revienne svp ?	Hadi smak 7ad lbalisa 7ta ana rja 3afakLe train	L lrenLa garre	LmahataLa voie ferrée	SikkaLa place	LblaçaLe billet	Lwarka/lbilleetLe wagon	L fagole controleur	LcontrolourAcheter son billet	Katta lwarkaCette place, est elle occupée ou libre madame?	7ad lblaça ouech 3amra wla khaouia alalla ?Le train n’arrive pas, il a peut etre du retard	Lmachina maouoslach wakila 3anda lretardPourais-je fumer une cigarette svp?	Smahli mkemmi wahed lgarro?L’huile	L zitLa vitesse	LsoraaL’essence	L’essansLe gaz oil	L mazotL’automobile, les automobiles	Ltonobil/ltonobilatLa station service	LbombaLe cofre	LcofrLitre	LitroBidon	BidoPhoto	SoiratCette route mène-t-elle à fes?	Ouich 7ad trek, tddi lfes ?Y a-t-il un mécanicien ici	Kein chi mecanicien hnaya?Je voudrais que quelqu’un me répare ma voiture	Brit chi wahed le saib lia ltonobilY a t il encore une station sur la route?	Ouech mazal chi station 9oddem ?Je n’ai plus de roue de secour	Ma3ndich roeda dsecourMa roue est crevée	Crevat lroedaJe suis tombée en panne	Tahat en panneOù est l’hotel ?	Fin l’hotel ?Excusez moi, y a-t-il un hotel ici ?	Smahlia lalla fin kein chi hotel hnaya ?Bonsoir, il vous reste une chambre disponible ?	Msalkhir, ba9i 3andek chi bit khaoui?Non, tout est plein tout est complet, alez voir cet hotel là bas.	La coulchi 3amar, coulchi complet, chof 7adak hotel hya.Existe-t-il un camping dans cette ville ?	Ouech kein chi camping f7ad lmdina a sidi ?Combien coute une chambre	Ch7al t7aseb lbit100 DH par nuit	Myat drham lilaY a-t-il une douche ?	Fia douche o la laAvec douche c’est 5 dh par nuit	Bdouch khassek nzid 5dh lilaLe lit	L FrachL’orreiller	LnizarLa couverture	LbtaniaReserver	ArbenLa lumiere	L doL’eau chaude	Lma skhonLa nuit	LilL’eau froide	Lma berdNa9i	ProperLe petit déjeuner	L ftorSale	Mouiskh, mouiskhaLe dejeuner	LrdaLe diner	L3achaLe pain	L kkobsLe lait	L 7alibLe café	Lka7oaLa patisserie	lHalouaLe thé	LataiLe beurre	lZoubdaLe cocolat	LchoklatLa confiture	LconfitirLe miel	Ala3asalLe jus de fruit	L’3asirLa viande hachée	LkeftaLe roti	MlmhamarLes brochettes	LktbanLe mechoui	LmechouiLe mechoui	LhamLe riz	ArozLes olives	LzitounLes légumes	LkhodraLe poulet	LgegLes tomates	MatichaLe poisson	LhoutLes pommes de terres	LbatataLes abats	LfdaouchLes carrotes	LkhaizoLes oignons	LbaslaLes pigeons	LhmamLa laitue	LkhasLes navets	AleftLes courgettes	Lgr3aLe thé noir	Atai kehalLalcohol	LchrabLe thé vert	Atai khedarLa bierre	LbirraLa menthe	N3an3aL’abscinte	LchibaLa verveine	LouisaLe jus de pomme	L’3asir d tfa7Le jus d’orange	L '3asir dlimoneLes fruits	LfawakiaLe raisin	L’3anibLes abricots	LmachmachLes melons	LbetikhLes pasteques	LdelahLes grenades	aRmanLes figues	LkarmousLes peches	LkhokhLes oranges	LimounOù est l’hotel ?	Fin l’hotel ?je	Anatu	Ntinail	Hiaelle	Hoanous	7navous	Ntoumails / elles	Houmale mien	Dialnale tien	Diallekle sien	Diallola sienne	Diallale notre	Dialhnale votre	Dialkoumle leurs	Dialloumsoudain / brusquement	3alaraflavacances / congés	3otlaconnaître	3refdonner	3tidonne moi	Aratimide	7chmposer	7etapprendre	7fadYeux	AainViens	AgiJours	AiemPourquoi	AlachPourquoi tu me regardes ?	Alach ketchoufiaPour moi et pour toi	Alina w alekDieu	AllahJe suis fatigué	Ana aienJ’ai faim	Ana fia jou3J’ai sommeil	Ana fia nassJe suis là bas	Ana temaDès que j’en aurais l occasion	Aoul manalka chi forsaEnfants	AouledDonne-moi	AtainyVendre	Ba3Père	BabaFout moi la paix	BadmniC’est tout	BarakaMes condoléances	Baraka frasekMoins cher	Barata / rkhissPorte	BebŒufs	Beid / beidasÇa va ?	BekherAu contraire	Bel3aksAu contraire	Bel3axPar contre	BelhakHier	Bera7Pour	BeshPrès de	bhallMer / plage	BharBeaucoup	BizefAvaler	BlaaLaisse tomber	BleshAmpoule	BolaPilier	boudraVouloir	BriteFélicitations	BsahaAu revoir	BslamaPomme de terre	btataPoivre	BzarMalgré	BzazForce	CaouaFort	Caouiy/s7i7Yali	Celui quiPates/spaghettis	Ch3ariaAllumer	Cha3alCheveux	chaarTémoin	ChahadaSoleil	chamsExplication	Char7Qu’est ce que tu veux	chbghitiC’est puissant / c’est top	ChdidJeune	chebVieux	chebeniVoleur	cheferArbre	ChjraQui ?	chkounBougies	ChmeaGauche	chmellQuoi	ChnoExpliquer	Chra7Acheter	chriPluie	ChtahToutes les chambres	CoulbitTout	CoulchiTout va bien	Coulchi mzianChaise	CoursiFaible	DaîfMaison	darTe frapper	DarbekDent	DarsApprendre	DerasaFarine	DgigElastique	DjipadaEntrez	DkhollGentil	Drifa/drifAprès midi	Eshiyaalors que	F3otContent	FarhanSouris	FarrVirgule	FassilaCurieux	FdoliReflechir	FekkarJe suis enrhumé	Fia rouahBonne idée	Fikra mzyanaOù va tu	Fin machiOù en êtes-vous	Fiou wsaltoTortue	FkrounArgent	FlousQuand ?	Fo9ashOuvrir	FtahPetit déjeuner	FtarPourcent	FulmiaAssis	GelesCher	GhaliBizarre	Ghariba/fechkelAssis ! assoyez-vous !	Gless/gelssoDire	gollAngle aigu	HaddaMétal / fer	HadidComme ça	HakaEscargot	HalazounGateaux	HalouaGateaux	HalouaDieu merci	HamdoulilahEpicerie	HannoutMoi aussi	Hata anaToi aussi	Hata ntaParler	HdarPoissons	HeudtLait	HlibAne	HmarCochon	HoulloufBrûler	Hra9Toi de même	Htanta/htantiPunir	i3a9abBalayer	Ichtaba/miknasaDonc	Idansi dieu le veut	Inchallah / ikonkherCrier	IrouatMosquée	Jama3Sert pierre	JffafIl y en a	KaenaAngle droit	KaimaMoins 5 minutes	Kal KsamMoins 10 minutes	Kal KsmaeninaStress	Kalakmoins 20 minutes	KaltseuleutEnsemble	Kamlin bikoumJe cherche	Kan9alebJe fais	kandirEglise	KanisaJ’ai peur	KankhafChat	Kata / mchaJ’aime ça	Kay3jebniDrôle	Kayde7ekAvant	KbelGrand	KbirMentir	KdebChien	KelbJe t’aime	Ken brickessayer	KenhaoulJe te felicite	KenhenekHabiter	KenskounTrain	KetarSage femme / j’accepte	KhablaTravail	Khadma / a3malGrain de beauté	KhalaIl n’y a rien	KhaouiBois	KhchebTante	Kheltilevure	KhemiraNez	KhnafarPrendre	KhodEmmène-moi	KhodniPrend	KhoudSortez Sortir	KhourijMerde	KhraComment ça va ?	Kifah halekPareils	Kifkif – fhalhfalDis lui	KolloJ’ai failli…	KontsManger	KoulEtudier	KraApprocher	KrrebEcrire	KtebPlus que toi	KtsarmnikntaNon	LaLentille	LaadizL’année prochaine	LaamjiQue dieu te donne la santé	LahteksahaQue Dieu me garde	LahyaounChambre (s)	Lbit /lbioutCitron	LemonOrange	Letchi / mandarineUnivers	LfalakHaut	LfokhEn haut	LfokhViande	LhamMouton	LhaouliDroite	LimenAujourd’hui	LioumaDomestiques	LkhaddamaL’eau	LmaTable	LmidaLe milieu	LouastHaricots	LoubiaForet	LrabaBas	Lte7tAvec toi	MaakEntre…. Et …	MabinFélicitation	MabroukÇa ne va pas ?	Machi mzyan ?Pas bien	MachimzianOccupé	machroulQui ne passe pas	MadouzchiCarafe	MakregJe ne sais pas	ManarafBienvenu	MarhabanTomates	MataichaPar exemple	MatalanPas encore	MazalAller	MchaEnchanté	McharfinJe vais par la	Mchi mn hnaChaton	MchichaOn y va !	MchinaJe ne comprends pas	MefemtchiMort	Metset / moutsChat	MichaSauf que	min ghirD’ où vient …	Minjat ?Malade	MiriendMarteau	MittrakAbimé / gâté	MkhasrSel	MlahLunettes	MnaddarApres	MnbaadParapluie	MndallSurpris	MofajaaAngle obtus	MoferijaObeissant	Mote3ainProblème	MouchkilaVoyager	MssaferFutur	MstakbalStupide	MtarnanBelle	MziounaPoser	N7atDiminuer	N9essDiscuter (prix)	Na9chouJe fais ce que je veux	Nahmal le bridzeNous faisons	NahmlouAu secours	NajdaOuvrir	NhelExactement / alors	Nichen / yahadekPlus ou moin	NisbianOn part ?	NmjiouNote	No9taJ ai oublié	nsitet alors?	o cheno fiha?D’accord	OakhaTemps	OuaktOreilles / écouter	Ouednin/SmahMinistre	OuizirFils	OuldFils de pute	Ould kahbaDemain	RaddaRepos	RahaFerme les yeux	RamadainickRiche	raniAbsence	RiebMince	RkikGros	RlidBoite de tomate	rOrraf dmataichaEn forme	S7i7C’est bon / c’est fini	SafiMon ami	SahbiMon amie	SahbtiDifficile	SaiebJeûner	SaiemCarafe	SakhanQuestion	SaksiLa paix soit avec toi	Salam alekoumAnnée	SanaL’année prochaine	SanakadimaFenêtre	SargimPantalon	SaroualLion	Sbaabonjour	SbaalkherMatin	sbahMois	SchorVite	SerbieCombien	ShallQuel age as-tu	Shall faamrekQu’est ce que tu veux	Shnau britiQuoi de neuf ?	Shnau kainComment t’appelles-tu	Shnau smitik/ ishmoukComment ça s’appelle ?	Shnau smitouQu’est ce que ça veut dire	Shnau zamaFermer	ShoudtVoir	ShoufUn peu	ShouiaMerci	ShoukranAttraper	ShouperNager	SibahaVoile	Sibnia / hijabJeter	SiebIndustrie	Sina3aPantalon	SiroualVa te faire foutre	SirtkaouedIl fait chaud	SkhanaChaud	SkhönTaisez vous	SktouPardon	SmahaliaEntendre	SmatiSucre	SoukarSucre	SoukarQuestionner	SouwolPetit	SrirEn bas	Ta7tplus ou moin	Ta9ribanTable	TabilaCasquette	TarbouchMédecin	TbibFumer	TboakBalayer	TchatbiSandales	TchinglaEteindre	TfahSe moquer	TflaGros mots	TflistiPortez vous bien	ThallaNeige	TheljBouche	TkomAllez-y	TlakDattes	TmarTissus	ToubBus	Trambia / tobusServir	TserviSouffrir	TskarfèsTu me manques	Twa7echtkDebout	Wa9fmème si	wakha maSos	WakwakRien	Wallosi jamais	WidaOui	YaQue dieu te guide	YadikallahMourir	YamoutsPoubelle	Zbelchanceux	ZharrVas-y / entres	ZidFoulard	ZifBeurre	Zoubda
