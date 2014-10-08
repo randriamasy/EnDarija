@@ -60,7 +60,12 @@ public class DictionaryModel {
         ArrayList<String> resultList = new ArrayList<String>();
 
         for(String element : wordsList) {
-            if (element.contains(key)) {
+
+            String elementInLowerCase = element.toLowerCase();
+            String keyInLowerCase = key.toLowerCase();
+
+            if (elementInLowerCase.contains(keyInLowerCase)) {
+
                 resultList.add(element);
             }
         }
