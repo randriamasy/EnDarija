@@ -9,6 +9,9 @@ import android.view.MenuItem;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import java.util.ArrayList;
+import java.util.List;
+
 
 public class DictionaryActivity extends ActionBarActivity {
 
@@ -18,7 +21,7 @@ public class DictionaryActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_my);
+        setContentView(R.layout.activity_layout);
 
         model = new DictionaryModel(this);
         listView = (ListView) findViewById(R.id.listView1);
@@ -56,17 +59,22 @@ public class DictionaryActivity extends ActionBarActivity {
 
     private void reloadListViewWithAllWords() {
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
-                android.R.layout.simple_list_item_1, model.allWords());
+        ArrayList<Word> listeTousMots = new ArrayList<Word>();
+        listeTousMots.add(new Word("1","ouahad"));
+        listeTousMots.add(new Word("2","jouj"));
+        listeTousMots.add(new Word("lundi","tnin"));
+        listeTousMots.add(new Word("mardi","tlets"));
+
+        DictionaryAdapter adapter = new DictionaryAdapter(this, R.layout.item_layout, listeTousMots);
         listView.setAdapter(adapter);
 
     }
 
     private void reloadListViewWithWordsContainingKey(String key) {
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
-                android.R.layout.simple_list_item_1, model.wordsWithKey(key));
-        listView.setAdapter(adapter);
+//        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
+//                android.R.layout.simple_list_item_1, model.wordsWithKey(key));
+//        listView.setAdapter(adapter);
     }
 
 }
