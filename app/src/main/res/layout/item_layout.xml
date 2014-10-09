@@ -14,7 +14,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/textFr"
             android:fontFamily="@string/abc_shareactionprovider_share_with_application"
-            android:textStyle="bold"
+            android:textStyle="normal"
             android:width="@dimen/abc_action_bar_default_height"
             android:textSize="@dimen/abc_action_bar_title_text_size" />
         <TextView
@@ -22,6 +22,7 @@
             android:layout_height="wrap_content"
             android:textColor="@android:color/darker_gray"
             android:id="@+id/textAr"
+            android:textStyle="bold"
             android:textSize="@dimen/abc_action_bar_title_text_size" />
     </LinearLayout>
 </LinearLayout>
