@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:baselineAligned="false">
+    android:baselineAligned="false"
+    android:padding="5dp">
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="0dip"
@@ -13,11 +14,14 @@
             android:layout_height="wrap_content"
             android:id="@+id/textFr"
             android:fontFamily="@string/abc_shareactionprovider_share_with_application"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:width="@dimen/abc_action_bar_default_height"
+            android:textSize="@dimen/abc_action_bar_title_text_size" />
         <TextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:textColor="@android:color/holo_blue_dark"
-            android:id="@+id/textAr" />
+            android:textColor="@android:color/darker_gray"
+            android:id="@+id/textAr"
+            android:textSize="@dimen/abc_action_bar_title_text_size" />
     </LinearLayout>
 </LinearLayout>
