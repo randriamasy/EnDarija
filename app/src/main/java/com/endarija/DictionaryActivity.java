@@ -59,12 +59,7 @@ public class DictionaryActivity extends ActionBarActivity {
 
     private void reloadListViewWithAllWords() {
 
-        ArrayList<Word> listeTousMots = new ArrayList<Word>();
-        listeTousMots.add(new Word("1","ouahad"));
-        listeTousMots.add(new Word("2","jouj"));
-        listeTousMots.add(new Word("lundi","tnin"));
-        listeTousMots.add(new Word("mardi","tlets"));
-
+        ArrayList<Word> listeTousMots = model.allWords();
         DictionaryAdapter adapter = new DictionaryAdapter(this, R.layout.item_layout, listeTousMots);
         listView.setAdapter(adapter);
 
@@ -72,9 +67,9 @@ public class DictionaryActivity extends ActionBarActivity {
 
     private void reloadListViewWithWordsContainingKey(String key) {
 
-//        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
-//                android.R.layout.simple_list_item_1, model.wordsWithKey(key));
-//        listView.setAdapter(adapter);
+        ArrayList<Word> listeMotsRecheche = model.wordsWithKey(key);
+        DictionaryAdapter adapter = new DictionaryAdapter(this, R.layout.item_layout, listeMotsRecheche);
+        listView.setAdapter(adapter);
     }
 
 }

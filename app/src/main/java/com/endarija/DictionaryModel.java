@@ -12,16 +12,15 @@ import java.util.ArrayList;
  */
 public class DictionaryModel {
 
-    private ArrayList<String> wordsList;
+    private ArrayList<Word> wordsList;
 
     public DictionaryModel(Context context) {
 
-        wordsList = new ArrayList<String>();
+        wordsList = new ArrayList<Word>();
 
-        InputStream instream = null;
         try {
             // open the file for reading
-            instream = context.getAssets().open("data.txt");
+            InputStream instream = context.getAssets().open("data.txt");
 
             // prepare the file for reading
             InputStreamReader inputreader = new InputStreamReader(instream);
@@ -36,7 +35,7 @@ public class DictionaryModel {
                 String ar = fields[1];
 
                 // copy line in words
-                wordsList.add(line);
+                wordsList.add(new Word(fr, ar));
             }
 
             // close the file.
@@ -50,18 +49,18 @@ public class DictionaryModel {
     }
 
 
-    public String[] allWords() {
+    public ArrayList<Word> allWords() {
 
-        return wordsList.toArray(new String[wordsList.size()]);
+        return wordsList;
     }
 
-    public String[] wordsWithKey(String key) {
+    public  ArrayList<Word>  wordsWithKey(String key) {
 
-        ArrayList<String> resultList = new ArrayList<String>();
+        ArrayList<Word> resultList = new ArrayList<Word>();
 
-        for(String element : wordsList) {
+        for(Word element : wordsList) {
 
-            String elementInLowerCase = element.toLowerCase();
+            String elementInLowerCase = element.valueFr.toLowerCase();
             String keyInLowerCase = key.toLowerCase();
 
             if (elementInLowerCase.contains(keyInLowerCase)) {
@@ -70,7 +69,7 @@ public class DictionaryModel {
             }
         }
 
-        return resultList.toArray(new String[resultList.size()]);
+        return resultList;
     }
 
 }
