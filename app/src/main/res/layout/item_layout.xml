@@ -2,27 +2,26 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:baselineAligned="false"
-    android:padding="5dp">
+    android:baselineAligned="false">
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="0dip"
         android:layout_weight="1"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
         android:layout_height="fill_parent">
         <TextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/textFr"
-            android:fontFamily="@string/abc_shareactionprovider_share_with_application"
-            android:textStyle="normal"
-            android:width="@dimen/abc_action_bar_default_height"
-            android:textSize="@dimen/abc_action_bar_title_text_size" />
+            android:textSize="16sp"
+            android:id="@+id/textFr"/>
         <TextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:textColor="@android:color/darker_gray"
             android:id="@+id/textAr"
+            android:textColor="@android:color/darker_gray"
             android:textStyle="bold"
-            android:textSize="@dimen/abc_action_bar_title_text_size" />
+            android:textSize="16sp"
+            android:gravity="right"/>
     </LinearLayout>
 </LinearLayout>
