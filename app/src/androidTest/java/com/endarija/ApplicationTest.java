@@ -1,4 +1,4 @@
-package com.example.randriamasy.endarija;
+package com.endarija;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
