@@ -75,7 +75,7 @@ public class DictionaryActivity extends ActionBarActivity {
     public void DemoAlertDialog(){
         AlertDialog.Builder ad = new AlertDialog.Builder(this);
         ad.setTitle("A propos");
-        ad.setMessage("Traduction Français/Darija avec plus de 1000 mots et expressions quotidiens");
+        ad.setMessage("Traduction Français/Darija avec plus de 1000 mots et expressions quotidiens.");
         ad.show();
     }
     private void reloadListViewWithAllWords() {
