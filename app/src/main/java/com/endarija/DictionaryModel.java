@@ -54,16 +54,17 @@ public class DictionaryModel {
         return wordsList;
     }
 
-    public  ArrayList<Word>  wordsWithKey(String key) {
+    public ArrayList<Word> wordsWithKey(String key) {
 
         ArrayList<Word> resultList = new ArrayList<Word>();
 
-        for(Word element : wordsList) {
+        for (Word element : wordsList) {
 
-            String elementInLowerCase = element.valueFr.toLowerCase();
+            String elementFrInLowerCase = element.valueFr.toLowerCase();
+            String elementArInLowerCase = element.valueAr.toLowerCase();
             String keyInLowerCase = key.toLowerCase();
 
-            if (elementInLowerCase.contains(keyInLowerCase)) {
+            if (elementFrInLowerCase.contains(keyInLowerCase) || elementArInLowerCase.contains(keyInLowerCase)) {
 
                 resultList.add(element);
             }

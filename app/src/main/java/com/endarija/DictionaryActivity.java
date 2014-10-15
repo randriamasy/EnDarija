@@ -75,7 +75,7 @@ public class DictionaryActivity extends ActionBarActivity {
 
     public void showAbout(){
         AlertDialog.Builder ad = new AlertDialog.Builder(this);
-        ad.setTitle("A propos");
+        ad.setTitle("A propos de EnDarija");
         ad.setMessage("Traduction Français/Darija avec plus de 1000 mots et expressions quotidiens.");
         ad.setNegativeButton("Fermer", new DialogInterface.OnClickListener() {
             @Override
