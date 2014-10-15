@@ -2,6 +2,7 @@ package com.endarija;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.ActionBarActivity;
@@ -64,7 +65,7 @@ public class DictionaryActivity extends ActionBarActivity {
         // Handle presses on the action bar items
         switch (item.getItemId()) {
             case R.id.action_settings:
-                DemoAlertDialog();
+                showAbout();
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
@@ -72,10 +73,29 @@ public class DictionaryActivity extends ActionBarActivity {
     }
 
 
-    public void DemoAlertDialog(){
+    public void showAbout(){
         AlertDialog.Builder ad = new AlertDialog.Builder(this);
         ad.setTitle("A propos");
         ad.setMessage("Traduction Français/Darija avec plus de 1000 mots et expressions quotidiens.");
+        ad.setNegativeButton("Fermer", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+
+            }
+        });
+        ad.setPositiveButton("Contactez-nous", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+                Intent email = new Intent(Intent.ACTION_SEND);
+                email.putExtra(Intent.EXTRA_EMAIL,new String[] { "malala.randriamasy@gmail.com"});
+                email.putExtra(Intent.EXTRA_SUBJECT,"Objet:");
+                email.putExtra(Intent.EXTRA_TEXT,"Message: ");
+                email.setType("message/rfc822");
+
+                startActivityForResult(Intent.createChooser(email, "Choose an Email client:"),
+                        1);
+            }
+        });
         ad.show();
     }
     private void reloadListViewWithAllWords() {

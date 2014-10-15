@@ -40,8 +40,8 @@ public class DictionaryAdapter extends ArrayAdapter<Word>{
         Word mot = getItem(position);
 
         // Setup data on the item
-        TextView textViewFr =(TextView)itemView.findViewById(R.id.textFr);
-        TextView textViewAr =(TextView)itemView.findViewById(R.id.textAr);
+        TextView textViewFr =(TextView)itemView.findViewById(R.id.textRight);
+        TextView textViewAr =(TextView)itemView.findViewById(R.id.textLeft);
 
         //Assign the appropriate data from our alert object above
         textViewFr.setText(mot.valueFr);

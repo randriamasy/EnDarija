@@ -14,11 +14,11 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:textSize="16sp"
-            android:id="@+id/textFr"/>
+            android:id="@+id/textLeft"/>
         <TextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/textAr"
+            android:id="@+id/textRight"
             android:textColor="@android:color/darker_gray"
             android:textStyle="bold"
             android:textSize="16sp"
