@@ -9,13 +9,9 @@ import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.SearchView;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.Toast;
 
 import java.util.ArrayList;
-import java.util.List;
 
 
 public class DictionaryActivity extends ActionBarActivity {
@@ -92,7 +88,7 @@ public class DictionaryActivity extends ActionBarActivity {
     }
 
 
-    public void showAbout(){
+    public void showAbout() {
         AlertDialog.Builder ad = new AlertDialog.Builder(this);
         ad.setTitle("A propos de EnDarija");
         ad.setMessage("Traduction Français/Darija avec plus de 1000 mots et expressions quotidiens.");
@@ -106,9 +102,9 @@ public class DictionaryActivity extends ActionBarActivity {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
                 Intent email = new Intent(Intent.ACTION_SEND);
-                email.putExtra(Intent.EXTRA_EMAIL,new String[] { "malala.randriamasy@gmail.com"});
-                email.putExtra(Intent.EXTRA_SUBJECT,"Objet:");
-                email.putExtra(Intent.EXTRA_TEXT,"Message: ");
+                email.putExtra(Intent.EXTRA_EMAIL, new String[]{"malala.randriamasy@gmail.com"});
+                email.putExtra(Intent.EXTRA_SUBJECT, "Objet:");
+                email.putExtra(Intent.EXTRA_TEXT, "Message: ");
                 email.setType("message/rfc822");
 
                 startActivityForResult(Intent.createChooser(email, "Choose an Email client:"),
@@ -117,6 +113,7 @@ public class DictionaryActivity extends ActionBarActivity {
         });
         ad.show();
     }
+
     private void reloadListViewWithAllWords() {
 
         ArrayList<Word> listeTousMots = model.allWords();

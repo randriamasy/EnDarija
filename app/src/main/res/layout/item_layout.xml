@@ -3,6 +3,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:baselineAligned="false">
+
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="0dip"
@@ -10,11 +11,13 @@
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
         android:layout_height="fill_parent">
+
         <TextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:textSize="16sp"
-            android:id="@+id/textLeft"/>
+            android:id="@+id/textLeft" />
+
         <TextView
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -22,6 +25,6 @@
             android:textColor="@android:color/darker_gray"
             android:textStyle="bold"
             android:textSize="16sp"
-            android:gravity="right"/>
+            android:gravity="right" />
     </LinearLayout>
 </LinearLayout>

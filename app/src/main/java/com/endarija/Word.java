@@ -8,9 +8,8 @@ public class Word {
     public String valueFr;
     public String valueAr;
 
-    public Word(String fr, String ar)
-    {
-        valueFr  = fr;
-        valueAr =ar;
+    public Word(String fr, String ar) {
+        valueFr = fr;
+        valueAr = ar;
     }
 }
